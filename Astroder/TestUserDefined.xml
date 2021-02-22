@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfQuote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Quote>
+    <Type>UserDefined</Type>
+    <Time>03/03/2011 00:00:00 +00:00</Time>
+    <Open>2055</Open>
+    <High>2066</High>
+    <Low>2011</Low>
+    <Close>2011</Close>
+    <Volume>0</Volume>
+  </Quote>
+  <Quote>
+    <Type>UserDefined</Type>
+    <Time>03/04/2011 00:00:00 +00:00</Time>
+    <Open>2058</Open>
+    <High>2099</High>
+    <Low>2022</Low>
+    <Close>2022</Close>
+    <Volume>0</Volume>
+  </Quote>
+  <Quote>
+    <Type>UserDefined</Type>
+    <Time>03/09/2011 00:00:00 +00:00</Time>
+    <Open>2122</Open>
+    <High>2222</High>
+    <Low>2011</Low>
+    <Close>2055</Close>
+    <Volume>0</Volume>
+  </Quote>
+  <Quote>
+    <Type>UserDefined</Type>
+    <Time>03/10/2011 00:00:00 +00:00</Time>
+    <Open>2132</Open>
+    <High>2182</High>
+    <Low>2112</Low>
+    <Close>2112</Close>
+    <Volume>0</Volume>
+  </Quote>
+</ArrayOfQuote>

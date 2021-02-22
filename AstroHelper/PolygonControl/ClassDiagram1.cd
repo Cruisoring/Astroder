@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PolygonControl.CircleItem" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAgAAAAAAAAAAAACAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>CircleItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolygonControl.AngledLabel">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAEAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AngledLabel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolygonControl.CircleSet">
+    <Position X="5.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIAAAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAAAAAIIAA=</HashCode>
+      <FileName>CircleSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolygonControl.Ruler" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>oUAkBQQIDGADF4AEAAoAAAACQghCIBAKAjARAABABAA=</HashCode>
+      <FileName>Ruler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PolygonControl.GraphicItem" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BCABAAUkAAEAEgkAAAAAAAAAgAAgAAAAAAAAAABAIAA=</HashCode>
+      <FileName>GraphicItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolygonControl.GraphicItemSet&lt;T&gt;" Collapsed="true">
+    <Position X="3.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGIAAEQAACAACBAACAAABAQAAAAAQAAACAAAAABAAAA=</HashCode>
+      <FileName>GraphicItemSet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PolygonControl.Overlay" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABAAQQACAAEoAAAIAAAAAAAAAAAAgAABAAAAAAAAA=</HashCode>
+      <FileName>Overlay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PolygonControl.OverlayHands">
+    <Position X="3.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAACAAAAAAAQEAAAAAAEAAAAACgAAAAAAAAAAAA=</HashCode>
+      <FileName>OverlayHands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolygonControl.PolygonControl" Collapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAKUANUGiECwIIIAlCCCCAKAgQIIQAAAEJhAADIEIQ=</HashCode>
+      <FileName>PolygonCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolygonControl.AngledItem" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAABAAAAAAAAAABAAEAAAAAAAAA=</HashCode>
+      <FileName>AngledItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolygonControl.AngledItemSet" Collapsed="true">
+    <Position X="0.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAoAAgAAAAAAAACAQEAAAAAAAAAACAAA=</HashCode>
+      <FileName>AngledItemSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolygonControl.AngledPath">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgIAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AngledPath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolygonControl.CircledPathes">
+    <Position X="5" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAICAAAAoIAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CircledPathes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
